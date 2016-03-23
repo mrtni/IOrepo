@@ -1,1 +1,1 @@
-# wige-io
+To jest program kalkulator.
